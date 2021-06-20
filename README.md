@@ -6,7 +6,7 @@
 
 <h3> About </h3>
 
-<p>The bank application allows user to upload a name and an ID to access thier made-up bank account. Once within your account you are able to: </p>
+<p>The bank application allows user to upload a name and an ID to access thier fictional bank account. Once within your account you are able to: </p>
 
 <ul>
   <li>A. Check balance</li>
