@@ -6,10 +6,16 @@
 
 <h3> About </h3>
 
-<p>The bank application allows user to upload a name and an ID to access thier made-up bank account.</p>
+<p>The bank application allows user to upload a name and an ID to access thier made-up bank account. Once within your account you are able to: </p>
 
 <ol>
-<li>Check balance<li>
-  
+<li>A. Check balance<li>
+  <li>B. Make a deposit</li>
+  <li>C. Make a withdrawal</li>
+  <li>D. View previous transaction</li>
+  <li>E. Calculate interest </li>
+  <li>F. Exit</li>
 </ol>
   
+
+      
