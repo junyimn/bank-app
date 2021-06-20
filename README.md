@@ -1,4 +1,4 @@
-# Bank application project
+# Bank application project 🏦
 
 <h3> Background </h3>
 
